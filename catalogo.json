@@ -1,0 +1,126 @@
+{
+  "professionals": [
+    {
+      "id": "p1",
+      "name": "Ana Paula Devides Massaro",
+      "specialties": [
+        {
+          "id": "s1-1",
+          "name": "Acupuntura"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Luiz Felipe Cesarini Mammana Savietto",
+      "specialties": [
+        {
+          "id": "s2-1",
+          "name": "Educador Físico"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Guilherme Ruivo Ribeiro",
+      "specialties": [
+        {
+          "id": "s3-1",
+          "name": "Cannabis Medicinal"
+        },
+        {
+          "id": "s3-2",
+          "name": "Medicina Esportiva"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Leticia Iamada Porto",
+      "specialties": [
+        {
+          "id": "s4-1",
+          "name": "Cannabis Medicinal"
+        },
+        {
+          "id": "s4-2",
+          "name": "Clínica Médica"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "id": "t1",
+      "name": "Avaliação corporal por  Bioimpedância",
+      "specialty": "EXAMES",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t2",
+      "name": "Avaliação corporal por Ultrassonografia - BodyMetrix",
+      "specialty": "EXAMES",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t3",
+      "name": "CONSULTA DE ACOMPANHAMENTO",
+      "specialty": "Atendimento Médico",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t4",
+      "name": "CONSULTA DE RETORNO",
+      "specialty": "Atendimento Médico",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t5",
+      "name": "Dinamometria por Seguimento (Bilateral)",
+      "specialty": "EXAMES",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t6",
+      "name": "Espirometria",
+      "specialty": "EXAMES",
+      "durationMinutes": 30
+    },
+    {
+      "id": "t7",
+      "name": "PRIMEIRA SESSÃO",
+      "specialty": "Acupuntura",
+      "durationMinutes": 60
+    },
+    {
+      "id": "t8",
+      "name": "PRIMEIRA SESSÃO ACUPUNTURA",
+      "specialty": "Acupuntura",
+      "durationMinutes": 45
+    },
+    {
+      "id": "t9",
+      "name": "Primeira Sessão Fisioterapia",
+      "specialty": "Fisioterapia",
+      "durationMinutes": 60
+    },
+    {
+      "id": "t10",
+      "name": "RASTREIO COGNITIVO",
+      "specialty": "Avaliação",
+      "durationMinutes": 90
+    },
+    {
+      "id": "t11",
+      "name": "Running Lab",
+      "specialty": "EXAMES",
+      "durationMinutes": 60
+    },
+    {
+      "id": "t12",
+      "name": "SESSÃO DE ACOMPANHAMENTO",
+      "specialty": "Acupuntura",
+      "durationMinutes": 45
+    }
+  ]
+}
